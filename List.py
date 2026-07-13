@@ -12,6 +12,10 @@ firstSecond=name[0:2] ## Accessing by slicings
 print(firstSecond)
 #['aman', 'rahul']
 
+lastAccess=name[-1] # Accessing by negative index
+print(lastAccess)
+#rohit
+
 print(type(mixed[3])) # here it iwill show the type of data present in that list
 #<class 'bool'>
 
