@@ -1,4 +1,4 @@
-#Ordered, but immutable (cannot be changed after creation).
+#Ordered, but immutable (cannot be changed after creation).Assigned inside parentheses ().
 #Tuples are generally a little faster than lists because they cannot be modified
 #If your data should remain constant, use a tuple.
 
@@ -19,3 +19,4 @@ print(slice1) #('blue', 'yellow')
 
 slice2=colors3[0:5:2] # slicing with step #takes 1st index then 3rd index then 5th index and so on
 print(slice2) #('red', 'blue', 'orange')
+

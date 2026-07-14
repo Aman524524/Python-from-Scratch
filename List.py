@@ -1,3 +1,4 @@
+#Assigned inside square brackets [].lists are ordered, changeable (mutable), and allow duplicate values.
 name=["aman","rahul","sachin","rohit"]
 mixed=[1,2.33,"aman",True]
 
