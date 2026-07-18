@@ -4,6 +4,7 @@
 
 colors = ("red", "green", "blue")
 colors2 = ("yellow", "orange")
+
 colors3 = colors + colors2 # concatenation of tuples #colors3 is also a tuple
 
 print(colors3) #('red', 'green', 'blue', 'yellow', 'orange')
