@@ -21,6 +21,5 @@ greet("Automation Anywhere")
 def greet(name):
     return "Hello,"+name
 greet1 = greet("Automation Anywhere")
+
 print(greet1)
-
-
